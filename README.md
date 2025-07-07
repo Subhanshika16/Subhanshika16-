@@ -1,4 +1,4 @@
-![logo] (https://github.com/Subhanshika16/Subhanshika16-/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png )
+![logo](https://github.com/Subhanshika16/Subhanshika16/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png )
 
 <h1 align="center">Hi 👋, I'm Subhanshika Chhabra</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Subhanshika16/Subhanshika16-](https://github.com/Subhanshika16/Subhanshika16-)
+- 👨‍💻 All of my projects are available at (https://github.com/Subhanshika16/Subhanshika16)
 
 - 📫 How to reach me **subhanshikachhabra@gmail.com**
 
