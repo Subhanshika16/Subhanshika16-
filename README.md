@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/Subhanshika16/Subhanshika16-/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Subhanshika Chhabra</h1>
